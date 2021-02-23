@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cc159a6aad2571d42a8ffc71584f6185
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Foxlite Script
+  fontNames:
+  - Foxlite Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 902154c70f6296b4eb3759c879d8e2a5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
