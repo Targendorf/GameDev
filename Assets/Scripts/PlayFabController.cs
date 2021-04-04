@@ -15,6 +15,7 @@ public class PlayFabController : MonoBehaviour
         Login();
         Button btn = HelloBtn.GetComponent<Button>();
         btn.onClick.AddListener(StartCloudHelloWorld);
+
     }
 
     // Update is called once per frame
@@ -63,5 +64,7 @@ public class PlayFabController : MonoBehaviour
     {
         Debug.Log(error.GenerateErrorReport());
     }
+
+
 
 }
