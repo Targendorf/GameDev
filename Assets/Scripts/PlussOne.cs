@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Analytics;
 
 public class PlussOne : MonoBehaviour
 {
@@ -13,6 +14,7 @@ public class PlussOne : MonoBehaviour
         Text txt = countText.GetComponent<Text>();
         Button btn = plsBtn.GetComponent<Button>();
         plsBtn.onClick.AddListener(PlsO);
+        
     }
 
     void PlsO()
